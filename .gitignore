@@ -1,0 +1,34 @@
+# —— 编译产物 ——
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+*.pdb
+*.ilk
+
+# —— 本地测试数据 / 压缩包 ——
+*.in
+*.ans
+*.zip
+*.prob
+
+# —— 编辑器缓存 ——
+.cph/
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# —— 系统与同步临时文件 ——
+.DS_Store
+Thumbs.db
+desktop.ini
+.WeDrive
+
+# —— 临时文件 ——
+*.tmp
+*.log
